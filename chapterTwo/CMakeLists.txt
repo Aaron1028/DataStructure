@@ -1,0 +1,5 @@
+include_directories()
+add_executable(2.1 pat_2.1.c)
+add_executable(2.2 pat_2.2_Understand.c)
+add_executable(2.3 pat_2.3.c)
+add_executable(2.8 pat_2.8.c)

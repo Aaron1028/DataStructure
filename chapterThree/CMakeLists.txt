@@ -1,0 +1,8 @@
+include_directories()
+add_executable(3.1 book_3.1-3.4.c)
+add_executable(3.2 book_3.5-3.10.c)
+add_executable(3.3 book_3.11-3.13.c)
+add_executable(3.4 book_3.15.c)
+add_executable(3.5 book_3.17.c)
+add_executable(3.6 book_3.18.c)
+add_executable(3.7 pat_3.4.c)

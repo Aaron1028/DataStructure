@@ -1,0 +1,5 @@
+include_directories(.)
+add_executable(1.4 book_1.4.c)
+add_executable(1.11 book_1.11.c)
+add_executable(1.14 book_1.14.c)
+add_executable(t1.1 pat_1.1.c)
