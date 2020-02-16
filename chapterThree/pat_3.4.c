@@ -4,7 +4,6 @@
 #include "stdlib.h"
 
 #define N 100001
-
 typedef struct LNode * List;
 struct LNode{
     int Data[N];
